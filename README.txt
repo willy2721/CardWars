@@ -1,0 +1,1 @@
+Type "make" and "make run" to play a text version of the game Card Wars
